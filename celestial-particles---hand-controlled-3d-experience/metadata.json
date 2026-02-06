@@ -1,0 +1,8 @@
+{
+  "name": "Celestial Particles - Hand Controlled 3D Experience",
+  "description": "An immersive 3D particle simulation where your voice and gestures, interpreted by Gemini Live, shape the laws of a digital universe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
