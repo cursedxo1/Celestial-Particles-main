@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/10gCPpeYp6BwuQ_rhzZi4vp
 3. Run the app:
    `npm run dev`
 
-Program by - (
+Program by - cursedxo1 (
