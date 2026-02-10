@@ -23,4 +23,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/10gCPpeYp6BwuQ_rhzZi4vp
 Program by - cursedxo1 ( Chitransh )
 
 
-  Enjoy the
+  Enjoy the program 
