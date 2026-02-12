@@ -3,7 +3,7 @@
 </div>
 
 
-#* Run and deploy your AI Studio App
+# Run and deploy your AI Studio App
 
 This contains everything you need to run your app locally.
 
